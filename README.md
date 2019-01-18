@@ -9,3 +9,7 @@ javac Battleship.java
 java Battleship
 ```
 
+Sample:
+--------
+
+![Screenshot](Battleship.png)
